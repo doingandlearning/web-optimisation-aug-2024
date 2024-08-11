@@ -4,8 +4,8 @@
 - Kevin Cunningham
   - kevin@kevincunningham.co.uk
   - https://kevincunningham.co.uk
-- Repo link:
-- Miro link:
+- Repo link: https://github.com/doingandlearning/web-optimisation-aug-2024
+- Miro link: https://miro.com/app/board/uXjVKquY1VM=/?share_link_id=283167683769
 - Feedback link:
 
 ## Timings:

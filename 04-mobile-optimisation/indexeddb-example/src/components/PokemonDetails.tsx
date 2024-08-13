@@ -1,16 +1,9 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { getPokemonDetail, savePokemonDetail } from '../utils/indexedDB';
+import { PokemonDetail } from '../types';
 
-interface PokemonDetail {
-	id: number;
-	name: string;
-	height: number;
-	weight: number;
-	sprites: {
-		front_default: string;
-	};
-}
+
 
 export default function PokemonDetails() {
 	const { id } = useParams<{ id: string }>();

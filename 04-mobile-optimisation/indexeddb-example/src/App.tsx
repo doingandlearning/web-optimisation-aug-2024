@@ -41,6 +41,7 @@ function App() {
       } catch (err) {
         setError('Failed to load Pokémon data');
         setLoading(false);
+        console.log(err)
       }
     }
 

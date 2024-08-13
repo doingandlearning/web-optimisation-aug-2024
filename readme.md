@@ -6,7 +6,7 @@
   - https://kevincunningham.co.uk
 - Repo link: https://github.com/doingandlearning/web-optimisation-aug-2024
 - Miro link: https://miro.com/app/board/uXjVKquY1VM=/?share_link_id=283167683769
-- Feedback link:
+- Feedback link: https://forms.microsoft.com/e/EuVwvhqfxN
 
 ## Timings:
 
